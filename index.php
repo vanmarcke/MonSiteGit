@@ -16,6 +16,23 @@
      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, explicabo accusamus placeat molestias adipisci
      esse delectus sed? Qui, est provident? Quod at commodi consectetur fugit quibusdam illo veritatis, mollitia dicta.</p>
 
+     <hr class="col-md-6 mx-auto bd-dark">
+
+     <h5 class="font-italic text-center">Commentaire sur le confinement</h5>
+
+     <form method="post" class="col-md-8 mx-auto">
+  <div class="form-group">
+    <label for="email">Email</label>
+    <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp">    
+  </div>
+  <div class="form-group">
+    <label for="message">Message</label>
+    <textarea class="form-control" name="name" id="message" rows="3"></textarea>
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
      </div>    
 </body>
 </html>
