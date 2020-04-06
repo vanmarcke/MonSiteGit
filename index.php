@@ -7,7 +7,15 @@
     <title>MonSiteGithub</title>
 </head>
 <body>
-    <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger mt-3">Plein le cul du confinement !!!</h1>
+    <div class="container">
     
+    <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger mt-3">Plein le cul du confinement !!!</h1>
+
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, explicabo accusamus placeat molestias adipisci
+     esse delectus sed? Qui, est provident? Quod at commodi consectetur fugit quibusdam illo veritatis, mollitia dicta.
+     Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, explicabo accusamus placeat molestias adipisci
+     esse delectus sed? Qui, est provident? Quod at commodi consectetur fugit quibusdam illo veritatis, mollitia dicta.</p>
+
+     </div>    
 </body>
 </html>
