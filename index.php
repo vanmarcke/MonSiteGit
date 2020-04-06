@@ -33,6 +33,13 @@
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
+        <h1 class="col-md-8 mx-auto display-4 text-center alert alert-danger mt-3">Ajout d'un Paragraphe</h1>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, explicabo accusamus placeat molestias adipisci
+        esse delectus sed? Qui, est provident? Quod at commodi consectetur fugit quibusdam illo veritatis, mollitia dicta.
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nobis, explicabo accusamus placeat molestias adipisci
+        esse delectus sed? Qui, est provident? Quod at commodi consectetur fugit quibusdam illo veritatis, mollitia dicta.</p>
+
      </div>    
 </body>
 </html>
